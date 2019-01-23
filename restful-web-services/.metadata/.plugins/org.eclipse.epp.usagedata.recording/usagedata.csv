@@ -1,0 +1,88 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1548209542970
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1548209542973
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1548209542979
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1548209542982
+started,bundle,org.eclipse.wb.discovery.core,1.1.0.r37x201109091028,"org.eclipse.wb.discovery.core",1548209542985
+started,bundle,org.eclipse.wb.discovery.ui,1.1.0.r37x201109091028,"org.eclipse.wb.discovery.ui",1548209542987
+started,bundle,com.jaspersoft.studio.babel.editor,6.6.0.final,"com.jaspersoft.studio.babel.editor",1548209542989
+started,bundle,com.jaspersoft.studio.xtext.jface,6.6.0.final,"com.jaspersoft.studio.xtext.jface",1548209542991
+started,bundle,net.sf.jasperreports,6.6.0.final,"net.sf.jasperreports",1548209542992
+os,sysinfo,,,"win32",1548209542998
+arch,sysinfo,,,"x86_64",1548209542998
+ws,sysinfo,,,"win32",1548209542998
+locale,sysinfo,,,"en_US",1548209542998
+processors,sysinfo,,,"4",1548209542998
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1548209542998
+java.runtime.version,sysinfo,,,"1.8.0_172-b11",1548209542998
+java.specification.name,sysinfo,,,"Java Platform API Specification",1548209542998
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1548209542998
+java.specification.version,sysinfo,,,"1.8",1548209542998
+java.vendor,sysinfo,,,"Oracle Corporation",1548209542998
+java.version,sysinfo,,,"1.8.0_172",1548209542998
+java.vm.info,sysinfo,,,"mixed mode",1548209542998
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1548209542998
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1548209542998
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1548209542998
+java.vm.specification.version,sysinfo,,,"1.8",1548209542998
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1548209542998
+java.vm.version,sysinfo,,,"25.172-b11",1548209542998
+started,bundle,com.adobe.flexbuilder.flex,4.7.0.349722,"com.adobe.flexbuilder.flex",1548209543194
+started,bundle,com.adobe.flexbuilder.project.ui,4.7.0.349722,"com.adobe.flexbuilder.project.ui",1548209543293
+started,bundle,com.adobe.flashbuilder.multiplatform.android.ui,4.7.0.349722,"com.adobe.flashbuilder.multiplatform.android.ui",1548209543323
+started,bundle,com.adobe.flashbuilder.multiplatform.ios.ui,4.7.0.349722,"com.adobe.flashbuilder.multiplatform.ios.ui",1548209543352
+started,bundle,com.adobe.flexide.launching,4.7.0.349722,"com.adobe.flexide.launching",1548209543380
+started,bundle,org.eclipse.ui.browser,3.4.300.v20150429-0602,"org.eclipse.ui.browser",1548209543397
+activated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548209646848
+deactivated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548209647664
+activated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548209648819
+closed,view,org.eclipse.ui.views,3.8.0.v20150422-0725,"org.eclipse.ui.views.ContentOutline",1548209648976
+closed,view,org.eclipse.wst.server.ui,1.5.202.v201602111638,"org.eclipse.wst.server.ui.ServersView",1548209648995
+closed,view,org.eclipse.ui.ide,3.11.0.v20150825-2158,"org.eclipse.ui.views.AllMarkersView",1548209649079
+closed,view,org.eclipse.ui.navigator.resources,3.5.1.v20160128-1644,"org.eclipse.ui.navigator.ProjectExplorer",1548209649098
+closed,view,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.internal.introview",1548209649128
+closed,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548209649639
+stopped,bundle,org.eclipse.m2e.logback.configuration,1.6.2.20150902-0002,"org.eclipse.m2e.logback.configuration",1548209650252
+stopped,bundle,org.eclipse.recommenders.apidocs.rcp,2.3.0.v20160216-1255,"org.eclipse.recommenders.apidocs.rcp",1548209650257
+stopped,bundle,org.eclipse.recommenders.coordinates.rcp,2.3.0.v20160216-1255,"org.eclipse.recommenders.coordinates.rcp",1548209650299
+stopped,bundle,org.eclipse.recommenders.models,2.3.0.v20160216-1255,"org.eclipse.recommenders.models",1548209650359
+stopped,bundle,org.eclipse.recommenders.coordinates,2.3.0.v20160216-1255,"org.eclipse.recommenders.coordinates",1548209650408
+stopped,bundle,org.eclipse.wst.server.preview,1.1.302.v201411112027,"org.eclipse.wst.server.preview",1548209650447
+stopped,bundle,org.eclipse.datatools.enablement.hsqldb.ui,1.0.0.v201108120600,"org.eclipse.datatools.enablement.hsqldb.ui",1548209650482
+stopped,bundle,org.eclipse.datatools.enablement.ingres.ui,1.0.0.v201105270214,"org.eclipse.datatools.enablement.ingres.ui",1548209650543
+stopped,bundle,org.eclipse.datatools.enablement.postgresql.ui,1.0.0.v201107221506,"org.eclipse.datatools.enablement.postgresql.ui",1548209650575
+stopped,bundle,org.eclipse.datatools.enablement.sqlite.ui,1.0.0.v201107221507,"org.eclipse.datatools.enablement.sqlite.ui",1548209650606
+stopped,bundle,org.eclipse.jpt.jpa.eclipselink.ui,2.4.0.v201308271953,"org.eclipse.jpt.jpa.eclipselink.ui",1548209650646
+stopped,bundle,org.eclipse.jpt.jpa.ui,3.4.0.v201312022017,"org.eclipse.jpt.jpa.ui",1548209650648
+stopped,bundle,org.eclipse.jpt.jpa.db.ui,2.1.100.v201309202144,"org.eclipse.jpt.jpa.db.ui",1548209650680
+stopped,bundle,org.eclipse.datatools.connectivity.db.generic.ui,1.0.2.v201211200622,"org.eclipse.datatools.connectivity.db.generic.ui",1548209650712
+stopped,bundle,org.eclipse.datatools.connectivity.apache.derby.ui,1.0.3.v201107221459,"org.eclipse.datatools.connectivity.apache.derby.ui",1548209650751
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,2.5.0.200810071,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples",1548209650799
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.ui,1.0.1.v200906111204,"org.eclipse.datatools.enablement.sybase.asa.ui",1548209650832
+stopped,bundle,org.eclipse.datatools.enablement.sybase.ase.ui,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.ase.ui",1548209650860
+stopped,bundle,org.eclipse.datatools.enablement.sybase.ui,1.0.0.v200906090452,"org.eclipse.datatools.enablement.sybase.ui",1548209650886
+stopped,bundle,org.eclipse.datatools.sqltools.data.ui,1.2.2.v201212120623,"org.eclipse.datatools.sqltools.data.ui",1548209650912
+stopped,bundle,org.eclipse.datatools.connectivity.sqm.server.ui,1.1.101.v201212070447,"org.eclipse.datatools.connectivity.sqm.server.ui",1548209650939
+stopped,bundle,org.eclipse.datatools.sqltools.ddlgen.ui,1.0.3.v201211200616,"org.eclipse.datatools.sqltools.ddlgen.ui",1548209650939
+stopped,bundle,org.eclipse.datatools.sqltools.db.derby.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.derby.ui",1548209650963
+stopped,bundle,org.eclipse.datatools.sqltools.db.generic.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.generic.ui",1548209650987
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core.ui,1.0.0.v201003161000,"org.eclipse.datatools.sqltools.debugger.core.ui",1548209651012
+stopped,bundle,org.eclipse.datatools.sqltools.routineeditor.ui,1.0.3.v201211200616,"org.eclipse.datatools.sqltools.routineeditor.ui",1548209651039
+stopped,bundle,org.eclipse.datatools.sqltools.sqlbuilder,1.0.7.v201401250704,"org.eclipse.datatools.sqltools.sqlbuilder",1548209651073
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core,1.0.1.v201107221520,"org.eclipse.datatools.sqltools.debugger.core",1548209651103
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages,1.1.1.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages",1548209651132
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui,1.1.1.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui",1548209651169
+stopped,bundle,org.eclipse.datatools.sqltools.sqlscrapbook,1.0.2.v201205310922,"org.eclipse.datatools.sqltools.sqlscrapbook",1548209651205
+stopped,bundle,org.eclipse.datatools.sqltools.sqleditor,1.0.4.v201212120623,"org.eclipse.datatools.sqltools.sqleditor",1548209651239
+stopped,bundle,org.eclipse.datatools.sqltools.editor.core.ui,1.0.0.v201001150815,"org.eclipse.datatools.sqltools.editor.core.ui",1548209651267
+stopped,bundle,org.eclipse.datatools.sqltools.tabledataeditor,1.0.2.v201212120623,"org.eclipse.datatools.sqltools.tabledataeditor",1548209651293
+stopped,bundle,org.eclipse.datatools.connectivity.sqm.core.ui,1.2.3.v201212070447,"org.eclipse.datatools.connectivity.sqm.core.ui",1548209651324
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.ui,1.1.200.v201004261420,"org.eclipse.jst.j2ee.ejb.annotations.ui",1548209651350
+stopped,bundle,org.eclipse.datatools.connectivity.ui.dse,1.1.5.v201212070447,"org.eclipse.datatools.connectivity.ui.dse",1548209651352
+stopped,bundle,org.eclipse.jst.jsf.apache.trinidad.tagsupport,1.4.0.v201309172102,"org.eclipse.jst.jsf.apache.trinidad.tagsupport",1548209651380
+stopped,bundle,org.eclipse.jst.jsf.facesconfig.ui,1.5.0.v201309172102,"org.eclipse.jst.jsf.facesconfig.ui",1548209651421
+stopped,bundle,org.eclipse.jst.jsf.facelet.ui,1.3.100.v201505112336,"org.eclipse.jst.jsf.facelet.ui",1548209651454
+stopped,bundle,org.eclipse.jst.jsf.ui,1.6.0.v201309172102,"org.eclipse.jst.jsf.ui",1548209651456
+stopped,bundle,org.eclipse.jst.pagedesigner.jsf.ui,1.5.0.v201309172102,"org.eclipse.jst.pagedesigner.jsf.ui",1548209651494
+stopped,bundle,org.eclipse.jst.pagedesigner,1.7.100.v201507242118,"org.eclipse.jst.pagedesigner",1548209651532
+stopped,bundle,org.eclipse.jst.jsf.common.ui,1.5.0.v201309172102,"org.eclipse.jst.jsf.common.ui",1548209651563
