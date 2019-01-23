@@ -1,0 +1,8 @@
+package com.in28minutes.microservices.limitsservice;
+
+
+@Component
+@ConfigurationProperties
+public class Configuration {
+
+}

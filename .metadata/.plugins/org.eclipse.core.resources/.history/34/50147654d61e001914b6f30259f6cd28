@@ -1,0 +1,4 @@
+spring.application.name=spring-cloud-config-server
+server.port=8888
+spring.cloud.config.server.git.uri=file:///C/tony/dev/spring.boot.microservice.proj/git-localconfig-repo
+
