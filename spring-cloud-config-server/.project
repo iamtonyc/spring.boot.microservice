@@ -26,11 +26,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>com.jaspersoft.studio.babel.editor.rbeNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>config-repo</name>
-			<type>2</type>
-			<location>C:/Users/Tony WK Cheung.POC/config-repo</location>
-		</link>
-	</linkedResources>
 </projectDescription>
