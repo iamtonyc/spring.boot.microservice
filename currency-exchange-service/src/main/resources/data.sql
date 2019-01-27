@@ -4,3 +4,5 @@ Insert into exchange_value(id, currency_from, currency_to, conversion_multiple,p
 values (10002, 'USD','EUR',75,0);
 Insert into exchange_value(id, currency_from, currency_to, conversion_multiple,port)
 values (10003, 'AUD','INR',25,0);
+Insert into exchange_value(id, currency_from, currency_to, conversion_multiple,port)
+values (10004, 'EUR','INR',45,0);
