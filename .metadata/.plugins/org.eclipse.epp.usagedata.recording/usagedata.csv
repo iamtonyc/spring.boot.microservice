@@ -1,51 +1,10 @@
 what,kind,bundleId,bundleVersion,description,time
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.paste",1548649891293
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.file.save",1548649891795
-activated,view,org.eclipse.ui.navigator.resources,3.5.1.v20160128-1644,"org.eclipse.ui.navigator.ProjectExplorer",1548649905752
-activated,editor,org.eclipse.jdt.ui,3.11.2.v20151123-1510,"org.eclipse.jdt.ui.CompilationUnitEditor",1548649909474
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.copy",1548649912317
-activated,editor,org.eclipse.jdt.ui,3.11.2.v20151123-1510,"org.eclipse.jdt.ui.CompilationUnitEditor",1548649913288
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.paste",1548649916219
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.file.save",1548649916461
-activated,view,org.eclipse.ui.navigator.resources,3.5.1.v20160128-1644,"org.eclipse.ui.navigator.ProjectExplorer",1548649944007
-activated,editor,org.eclipse.jdt.ui,3.11.2.v20151123-1510,"org.eclipse.jdt.ui.CompilationUnitEditor",1548649945980
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.paste",1548649949667
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.file.save",1548649950569
-activated,editor,org.eclipse.jdt.ui,3.11.2.v20151123-1510,"org.eclipse.jdt.ui.CompilationUnitEditor",1548649952313
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.copy",1548649955665
-activated,editor,org.eclipse.jdt.ui,3.11.2.v20151123-1510,"org.eclipse.jdt.ui.CompilationUnitEditor",1548649957043
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.paste",1548649959283
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.file.save",1548649960224
-activated,editor,org.eclipse.jdt.ui,3.11.2.v20151123-1510,"org.eclipse.jdt.ui.CompilationUnitEditor",1548649961178
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.copy",1548649965507
-activated,editor,org.eclipse.jdt.ui,3.11.2.v20151123-1510,"org.eclipse.jdt.ui.CompilationUnitEditor",1548649966561
-deactivated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548649969843
-activated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548649981789
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983765
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983765
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983765
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983765
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983765
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983765
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983765
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983766
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983767
-no handler,command,com.adobe.flexbuilder.flashbridge,4.7.0.349722,"com.adobe.flexbuilder.flashbridge.export.test.movie",1548649983767
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.edit.paste",1548649983881
-executed,command,org.eclipse.ui,3.107.0.v20150507-1945,"org.eclipse.ui.file.save",1548649988899
-deactivated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548649992906
-activated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548650035628
-activated,view,org.eclipse.ui.navigator.resources,3.5.1.v20160128-1644,"org.eclipse.ui.navigator.ProjectExplorer",1548650060353
-deactivated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548650062496
-activated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548650080371
-deactivated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548650082037
-activated,workbench,org.eclipse.ui.workbench,3.107.1.v20160120-2131,"",1548650091623
+stopped,bundle,org.jboss.ide.eclipse.as.classpath.ui,3.1.1.Final-v20160409-0826-B118,"org.jboss.ide.eclipse.as.classpath.ui",1548663262418
+stopped,bundle,org.jboss.ide.eclipse.as.classpath.core,3.1.1.Final-v20160409-0826-B118,"org.jboss.ide.eclipse.as.classpath.core",1548663262490
+stopped,bundle,org.jboss.ide.eclipse.as.rse.core,3.1.1.Final-v20160409-0826-B118,"org.jboss.ide.eclipse.as.rse.core",1548663262584
+stopped,bundle,org.jboss.ide.eclipse.archives.webtools,3.1.1.Final-v20160409-0826-B118,"org.jboss.ide.eclipse.archives.webtools",1548663262585
+stopped,bundle,org.jboss.ide.eclipse.as.ui,3.1.1.Final-v20160409-0826-B118,"org.jboss.ide.eclipse.as.ui",1548663262585
+stopped,bundle,org.jboss.tools.as.runtimes.integration,3.1.1.Final-v20160409-0826-B118,"org.jboss.tools.as.runtimes.integration",1548663262585
+stopped,bundle,org.jboss.ide.eclipse.as.wtp.ui,3.1.1.Final-v20160409-0826-B118,"org.jboss.ide.eclipse.as.wtp.ui",1548663262614
+stopped,bundle,org.eclipse.datatools.connectivity.oda.template.ui,3.2.5.v201403131814,"org.eclipse.datatools.connectivity.oda.template.ui",1548663262673
+stopped,bundle,org.eclipse.pde.api.tools.ui,1.0.600.v20150831-0659,"org.eclipse.pde.api.tools.ui",1548663262673
