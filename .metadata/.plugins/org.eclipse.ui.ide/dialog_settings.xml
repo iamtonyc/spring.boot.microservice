@@ -12,6 +12,7 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\tony\dev\spring.boot.microservice.proj\currency-conversion-service"/>
 			<item value="C:\tony\dev\spring.boot.microservice.proj\currency-exchange-service"/>
 			<item value="C:\tony\dev\spring.boot.microservice.proj\step08.1\step08\spring-cloud-config-server"/>
 			<item value="C:\tony\dev\spring.boot.microservice.proj\step08\spring-cloud-config-server.1"/>
