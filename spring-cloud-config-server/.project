@@ -30,7 +30,13 @@
 		<link>
 			<name>config-repo</name>
 			<type>2</type>
-			<location>C:/Users/Tony WK Cheung.POC/config-repo</location>
+			<locationURI>$%7Buser_home%7D/config-repo</locationURI>
 		</link>
 	</linkedResources>
+	<variableList>
+		<variable>
+			<name>user_home</name>
+			<value>file:/C:/Users/Tony%20WK%20Cheung.POC</value>
+		</variable>
+	</variableList>
 </projectDescription>
